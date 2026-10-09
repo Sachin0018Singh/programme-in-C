@@ -8,4 +8,3 @@ Flow Chart : Graphical/pictorial representation of the algorithm
 03-> processing : Information process (show by rectangle)
 <br>
 04-> conclusion : Conclusion (show by trapezium)
-

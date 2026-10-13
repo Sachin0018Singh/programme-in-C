@@ -2,15 +2,15 @@
 // print age as input
 
 
-// #include<stdio.h>
+#include<stdio.h>
 
-// int main() {
-//     int age;
-//     printf("enter the age:");
-//     scanf("%d", &age);
-//     printf("your age is %d",age);
-//     return 0;
-// }
+ int main() {
+     int age;
+     printf("enter the age:");
+     scanf("%d", &age);
+     printf("your age is %d",age);
+     return 0;
+}
 
 
 ////take two numbers in input and print their sum

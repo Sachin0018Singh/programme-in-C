@@ -3,6 +3,6 @@
 
 // int main (){
 //     int class = 12;
-//     printf(class);
+//     printf("%d",class);
 //     return 0;
 // }

@@ -20,15 +20,24 @@
 //     return 0;
 // }
 
-// 2.Arithmetic Instruction : Use of mathematical operators 
+// // 2.Arithmetic Instruction : Use of mathematical operators 
+// #include<stdio.h>
+// #include<math.h>
+// int main()
+// {
+//     int a=2, b=3;
+//     int sum = a+b;
+//     printf("%d",sum);
+//     int power = pow(a,b);
+//     printf("%d",power);
+//     return 0;
+// }
+
+// modular Operator(%) : to returns remainders value of the integer
 #include<stdio.h>
-#include<math.h>
-int main()
-{
-    int a=2, b=3;
-    int sum = a+b;
-    printf("%d",sum);
-    int power = pow(a,b);
-    printf("%d",power);
+int main(){
+    int a= 12 , b=13;
+    int remainder = a%b ;
+    printf("%d",remainder);
     return 0;
 }

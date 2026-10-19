@@ -34,10 +34,30 @@
 // }
 
 // modular Operator(%) : to returns remainders value of the integer
-#include<stdio.h>
-int main(){
-    int a= 12 , b=13;
-    int remainder = a%b ;
-    printf("%d",remainder);
-    return 0;
-}
+// #include<stdio.h>
+// int main(){
+//     int a= 12 , b=13;
+//     int remainder = a%b ;
+//     printf("%d",remainder);
+//     return 0;
+// }
+
+
+//// type conversion 
+// #include<stdio.h>
+// #include<math.h>
+// int main()
+// {
+//     printf("%f\n",2.0 * 2);
+//     return 0;
+// }
+
+// question of type Conversion 
+// int a = 1.999999999;
+// solution:
+// #include<stdio.h>
+// int main(){
+//     int a = (int)1.999999;
+//     printf("%d \n",a);
+//     return 0;
+// }

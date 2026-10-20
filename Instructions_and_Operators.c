@@ -63,8 +63,15 @@
 // }
 
 
-//// operator Precedence
+//// operator Precedence (precedence is basically priority)
+// like 1st: *,/,%
+// 2nd: +,-
+// 3rd: = (assignment opertor)
+#include<stdio.h>
+int main(){
+    
 
+}
 
 
 

@@ -67,13 +67,21 @@
 // like 1st: *,/,%
 // 2nd: +,-
 // 3rd: = (assignment opertor)
+// #include<stdio.h>
+// int main(){
+//     int a = 4 + 9 * 10;
+//     printf("%d",a);
+//     return 0;
+// }
+
+// case : operation of same precedence 
+// to solve it here is coming an associative rule:
 #include<stdio.h>
 int main(){
-    
-
+    int a = 4*5/6*7;
+    printf("%d",a);
+    return 0;
 }
-
-
 
 
 

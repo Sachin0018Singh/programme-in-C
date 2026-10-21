@@ -78,7 +78,7 @@
 // to solve it here is coming an associative rule:
 #include<stdio.h>
 int main(){
-    int a = 4*5/6*7;
+    int a = 4*5/5*4;
     printf("%d",a);
     return 0;
 }

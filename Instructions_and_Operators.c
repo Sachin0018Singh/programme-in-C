@@ -75,10 +75,12 @@
 // }
 
 // case : operation of same precedence 
-// to solve it here is coming an associative rule:
+// to solve it here is coming a rule (associative rule: for same precedence)
+// according to this method operation is solved with (Left to right)startingfrommleft side and end at the right side
 #include<stdio.h>
 int main(){
     int a = 4*5/5*4;
+// like 1st: 4*5 = 20 ,2nd: 20/5 = 4 ,3rd: 4*4
     printf("%d",a);
     return 0;
 }

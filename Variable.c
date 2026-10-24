@@ -1,4 +1,5 @@
-// // Variable = something which can store some data 
+// // Variable = something which can store some data  or some value
+
 // #include<stdio.h>
 
 // int main (){

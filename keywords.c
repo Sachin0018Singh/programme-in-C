@@ -26,7 +26,7 @@ sizeof
 short
 struct
 switch
-typedef
+typedef 
 union
 void
 while

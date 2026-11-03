@@ -7,7 +7,6 @@
 //     return 0;
 // }
 
-
 //// give three number as input and print the sum of three number (Lab question 01)
 // #include<stdio.h>
 

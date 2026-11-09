@@ -87,7 +87,7 @@
 
 
 // Control Instructions: 
-// "It is used to determine the floe of program"
+// "It is used to determine the floe of program" in simple words execution is start  from either 1st or last line 
 // a.Sequence Control
 // b.Decision Control
 // c.Loop Control

@@ -86,3 +86,11 @@
 // }
 
 
+// Control Instructions: 
+// "It is used to determine the floe of program"
+// a.Sequence Control
+// b.Decision Control
+// c.Loop Control
+// d.Case Control
+
+// 

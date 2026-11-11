@@ -92,4 +92,64 @@
 // b.Decision Control
 // c.Loop Control
 // d.Case Control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // OPERATORS 
+// 1.arithmetic operators 
+
+// #include<stdio.h>
+// int main(){
+//     int a = 10, b = 5;
+
+//     printf("%d\n %d\n %d\n %d\n %d\n %d\n", a+b , a-b , a*b , a/b , a%b);
+
+//     return 0;
+// }
+// // 2.relational operators
+// #include<stdio.h>
+// int main(){
+//     int a = 10, b = 10;
+
+//     printf("%d\n%d\n%d\n%d\n%d\n%d\n", a==b , a!=b , a<b , a>b , a<=b , a>=b);
+
+//     return 0;
+
+// }
+// // 3.logical operators
+// #include<stdio.h>
+// int main(){
+//     printf("%d\n",4>3 && 4>1);
+//     printf("%d\n",3>2 || 3>4);
+//     printf("%d\n",!(3>1) && (3>2));
+//     return 0;
+// }
+// 4.Bitwise operaots
+// 5.assignment operators
+// 6.ternary operators
 // 

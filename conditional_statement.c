@@ -81,4 +81,15 @@
 //     }
 //     printf("Sachin Singh");
 //     return 0;
+
+
+
+
+for(; i<=10;i++)
+{
+if (i==4)
+{
+    break;
+}
+    printf("%d\n",i);
 // }
